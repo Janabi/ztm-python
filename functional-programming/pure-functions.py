@@ -1,3 +1,5 @@
+# map, filter, zip, and reduce
+
 def multiply_by2(li):
     new_list = []
     for item in li:
