@@ -1,0 +1,10 @@
+import sys
+print(sys.version)
+print(sys.path)
+print(sys.platform)
+print(sys.executable)
+print(sys.argv)
+print(sys.stdin)
+print(sys.stdout)
+print(sys.stderr)
+print(sys.exit)
