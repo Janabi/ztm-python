@@ -1,7 +1,7 @@
 # guessing game by input through sys
 import sys
 import random
-answer = random.randint(1, 10)
+answer = random.randint(int(sys.argv[1]), int(sys.argv[2]))
 
 while True:
     try:
